@@ -1,4 +1,4 @@
-baseURL = " https://jjvc.github.io/ejemplo/"
+baseURL = "https://jjvc.github.io/ejemplo/"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
