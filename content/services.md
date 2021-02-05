@@ -1,35 +1,33 @@
 ---
-title: "Services"
+title: "Servicios"
 ---
 
-This is a page about the services, which I offer.
+Esta es una página sobre los servicios que ofrezco.
 
-It carries a lot more detail than what I put on the homepage - I swear!
+¿Quieres saber qué puedo hacer por ti?
 
-You want to know what I can do for you?
-
-Well, let me tell ya!
-
----
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+Bueno, déjame decirte!
 
 ---
 
-## Chef Consulting
+## Servicio 1
 
-Did you see the picture above? I can show you how to go from
+Esta no es una tarea fácil. Probablemente tendrá que pagar dinero por esto. ¿Sabes qué? Veamos primero una bonita foto.
 
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+![Bonita foto ;-)](../images/website.jpg)
+
+Eso estuvo bien, ¿verdad? Bueno, llámame y déjanos hablar.
+
+---
+
+## Servicio 2
+
+¿Viste la imagen de arriba? Puedo mostrarte como ir desde
+
+![Empecemos desde cero](../images/desde.jpg)
 
 to
 
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
+![Empecemos desde cero](../images/hasta.jpg)
 
-in estimated seconds.
+en poco tiempo.
